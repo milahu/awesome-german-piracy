@@ -40,6 +40,7 @@ A report on my Github page from [tarnkappe.info](https://tarnkappe.info) (in Ger
 * [Series (Other)](./Pages/Series_Other.md)
 * [Sport streams](./Pages/SportStreams.md)
 * [Torrents](./Pages/Torrents.md)
+* [Torrent Trackers](./Pages/TorrentTrackers.md)
 * [TV senders](./Pages/TvSenders.md)
 * [Usenet forums](./Pages/UsenetForums.md)
 * [Usenet search engines](./Pages/UsenetSearchEngines.md)
